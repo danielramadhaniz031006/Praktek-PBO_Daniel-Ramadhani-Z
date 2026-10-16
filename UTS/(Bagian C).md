@@ -8,4 +8,8 @@ C1. Tunjukkan baris kode yang membuat relasi Jurusan–Laboratorium menjadi komp
 
 
   Apabila ditambahkan method setter untuk mengganti Laboratorium dari luar class Jurusan, enkapsulasi akan melemah karena class lain dapat 
-  mengganti laboratorium yang dikelola Jurusan. Hal ini juga dapat merusak konsep kepemilikan pada composition.
+  mengganti laboratorium yang dikelola Jurusan. Hal ini juga dapat merusak konsep kepemilikan pada composition
+
+C2. Jelaskan apa yang terjadi ketika daftarPraktikum(anugrah, 1) dipanggil saat LAB-1 penuh, dan baris kode mana yang menanganinya ?
+    Saat LAB-1 penuh, program menampilkan pesan bahwa Anugrah tidak dapat didaftarkan. Perintah return menghentikan proses pendaftaran
+    
