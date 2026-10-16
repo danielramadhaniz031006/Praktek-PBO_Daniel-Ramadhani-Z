@@ -18,7 +18,6 @@ public class Jurusan {
         this.kajur = kajur;
     }
 
-    // Daftarkan mahasiswa ke laboratorium pertama yang masih memiliki tempat.
     public void daftarPraktikum(Mahasiswa mahasiswa) {
         for (Laboratorium lab : daftarLab) {
             if (!lab.isPenuh()) {
@@ -29,7 +28,6 @@ public class Jurusan {
         System.out.println("Semua laboratorium penuh, " + mahasiswa.getNama() + " tidak dapat didaftarkan.");
     }
 
-    // nomorLab menggunakan nomor yang dimulai dari 1.
     public void daftarPraktikum(Mahasiswa mahasiswa, int nomorLab) {
         if (nomorLab < 1 || nomorLab > daftarLab.length) {
             System.out.println("Nomor laboratorium tidak valid.");
