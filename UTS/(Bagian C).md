@@ -12,5 +12,8 @@ mengganti laboratorium yang dikelola Jurusan. Hal ini juga dapat merusak konsep 
 
 
 C2. Jelaskan apa yang terjadi ketika daftarPraktikum(anugrah, 1) dipanggil saat LAB-1 penuh, dan baris kode mana yang menanganinya ?
-    Saat LAB-1 penuh, program menampilkan pesan bahwa Anugrah tidak dapat didaftarkan. Perintah return menghentikan proses pendaftaran
+
+<img width="1093" height="201" alt="image" src="https://github.com/user-attachments/assets/3ec1d5f0-0bb4-41db-822d-7610f2923dca" />
+
+Saat LAB-1 penuh, program menampilkan pesan bahwa Anugrah tidak dapat didaftarkan. Perintah return menghentikan proses pendaftaran
     
