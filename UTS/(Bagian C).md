@@ -19,6 +19,7 @@ Saat LAB-1 penuh, program menampilkan pesan bahwa Anugrah tidak dapat didaftarka
     
 C3. Tambahkan Mahasiswa m = new MahasiswaBeasiswa("2341720099", "Mentari", 20, 25); di main, lalu panggil method hitungUKT().
 Versi method milik class mana yang dijalankan dan mengapa? Sebutkan pula letak overloading dan overriding di programmu?
+
 Hasil UKT Mentari adalah Rp2.625.000
 
 <img width="560" height="155" alt="image" src="https://github.com/user-attachments/assets/bff69cff-49c9-473a-ba48-b09529469887" />
